@@ -1,1 +1,1 @@
-# AIFFEL-exploration-2
+# AIFFEL-exploration-01 가위바위보 분류
